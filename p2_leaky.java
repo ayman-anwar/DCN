@@ -5,7 +5,7 @@ import java.io.*;
 import java.lang.*;
 
 
-publicclass p1{
+class p1{
 	public static void main(String[]args){
 		int drop=0,mini,i,o_rate,b_size,nsec,p_remain=0;
 		int packet[]=new int[100];
